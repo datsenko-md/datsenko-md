@@ -4,7 +4,17 @@ Hi 👋 My name is Max Datsenko
 Fullstack Developer (Node + React)
 ----------------------------------
 
-I believe that: - understanding the principles is more important than knowing the tools - readable code is more important than fast code - the level of thinking determines the level of the chosen decision - tests inspire confidence - good code does not mean good product I want to work in a company where - write tests, - coding standards are adhered to, - there is a system of mentors and code reviews
+I believe that:
+- understanding the principles is more important than knowing the tools
+- readable code is more important than fast code
+- the level of thinking determines the level of the chosen decision
+- tests inspire confidence
+- good code does not mean good product
+
+I want to work in a company where
+- write tests,
+- coding standards are adhered to,
+- there is a system of mentors and code reviews
 
 * 🌍  I'm based in Dnipro, Ukraine
 * ✉️  You can contact me at [datsenko.md@gmail.com](mailto:datsenko.md@gmail.com)
