@@ -1,7 +1,7 @@
 Hi 👋 My name is Max Datsenko
 =============================
 
-Fullstack Developer (Node + React)
+Fullstack Developer
 ----------------------------------
 
 I believe that:
@@ -11,15 +11,15 @@ I believe that:
 - tests inspire confidence
 - good code does not mean good product
 
-I want to work in a company where
+I am to working in a company where
 - write tests,
 - coding standards are adhered to,
 - there is a system of mentors and code reviews
 
 * 🌍  I'm based in Dnipro, Ukraine
 * ✉️  You can contact me at [datsenko.md@gmail.com](mailto:datsenko.md@gmail.com)
-* 🚀  I'm currently working on [Food For Life Dnipro](http://ffl.dp.ua)
-* 🧠  I'm learning Express.js / React.js / Docker / SICP
+* 🚀  I'm currently working at [SoftServe](https://www.softserveinc.com/en-us) and [Food For Life Dnipro](http://ffl.dp.ua)
+* 🧠  I'm learning Vue.js / Docker / SICP
 * ⚡  I like active leisure, traveling, yoga and music
 
 ### Skills
